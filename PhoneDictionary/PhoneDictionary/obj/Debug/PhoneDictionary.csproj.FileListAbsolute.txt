@@ -1,0 +1,10 @@
+E:\Myself\C#\PhoneDictionary\PhoneDictionary\bin\Debug\PhoneDictionary.exe.config
+E:\Myself\C#\PhoneDictionary\PhoneDictionary\bin\Debug\PhoneDictionary.exe
+E:\Myself\C#\PhoneDictionary\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+E:\Myself\C#\PhoneDictionary\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.AssemblyReference.cache
+E:\Myself\C#\PhoneDictionary\PhoneDictionary\obj\Debug\PhoneDictionary.Form1.resources
+E:\Myself\C#\PhoneDictionary\PhoneDictionary\obj\Debug\PhoneDictionary.Properties.Resources.resources
+E:\Myself\C#\PhoneDictionary\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.GenerateResource.cache
+E:\Myself\C#\PhoneDictionary\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.CoreCompileInputs.cache
+E:\Myself\C#\PhoneDictionary\PhoneDictionary\obj\Debug\PhoneDictionary.exe
+E:\Myself\C#\PhoneDictionary\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
